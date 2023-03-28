@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 5987128058781094752}
   m_Layer: 0
   m_Name: Poid
-  m_TagString: Untagged
+  m_TagString: Barbell
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
