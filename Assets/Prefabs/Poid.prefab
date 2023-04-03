@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5987128060401712074}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: attach
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 5987128058781094753}
   - component: {fileID: 5987128058781094757}
   - component: {fileID: 5987128058781094752}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Poid
   m_TagString: Barbell
   m_Icon: {fileID: 0}
